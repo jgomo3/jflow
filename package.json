@@ -3,6 +3,14 @@
   "version": "0.1.0",
   "description": "Minimal flow/state-machine pipeline library for JavaScript",
   "type": "module",
+  "homepage": "https://github.com/jgomo3/jflow#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgomo3/jflow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jgomo3/jflow/issues"
+  },
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
