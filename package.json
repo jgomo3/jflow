@@ -1,5 +1,5 @@
 {
-  "name": "jflow",
+  "name": "@jgomo3/jflow",
   "version": "0.1.0",
   "description": "Minimal flow/state-machine pipeline library for JavaScript",
   "type": "module",
@@ -10,6 +10,9 @@
       "types": "./dist/index.d.ts",
       "import": "./dist/index.js"
     }
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "files": [
     "dist",
